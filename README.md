@@ -1,98 +1,57 @@
-# 👋 Hi, I'm David
+# Hi, I'm David 👋
 
-🎓 Software Engineering Graduate (The Open University, 2025)
-💻 Junior Software Engineer | Backend & Full-Stack Development
-📍 London, UK (Open to relocation across Europe)
+**Junior software developer in London**, focused on full-stack web development with TypeScript, React, Svelte, Vue and Laravel.
+DipHE Computing & IT (The Open University, 2025), now studying for my BSc (Hons). Open to relocation across Europe.
 
----
+I came into software from more than twenty years in customer-facing roles: hospitality management, marketing, and now chauffeuring in London. That background shapes how I build: clear, reliable, and designed around the person using it.
 
-## 🚀 About Me
+## Featured projects
 
-I’m a career switcher with a strong background in customer-facing roles, now focused on building **real-world software systems**.
+### [Chauffeur Booking: React & Svelte](https://github.com/davidgyuricsko/chauffeur-booking)
 
-I recently developed a **full-stack event management and helpdesk platform**, implementing authentication, REST APIs, and user-specific data handling.
+A chauffeur booking flow built twice, in React and Svelte, with TypeScript. Both apps share one API contract, and **one Playwright test suite runs unchanged against both**, with automated accessibility checks. The project includes a measured framework comparison and runs CI on every push.
+`TypeScript` `React` `Svelte` `Vite` `Hono` `Zod` `Vitest` `Playwright` `GitHub Actions`
 
-I enjoy building practical applications, solving problems, and continuously improving my development skills.
+### [EventDesk: full-stack event and helpdesk system](https://github.com/davidgyuricsko/EventDesk_DavidGyuricsko)
 
----
+An event management platform with a built-in helpdesk: authentication (login, logout, password reset), event CRUD, user and agent support conversations, and per-user authorisation.
+`Vue 3` `Laravel` `Sanctum` `MySQL` `REST API`
 
-## 🛠️ Tech Stack
+### [Smart Expense Categoriser](https://github.com/davidgyuricsko/smart-expense-categoriser)
 
-**Languages**
+A Python tool that categorises personal transactions from CSV files and produces category summaries, with tests.
+`Python` `CSV`
 
-* Python
-* Java
-* JavaScript
-* PHP
+### Smaller projects
 
-**Frontend**
+- [Word search generator](https://github.com/davidgyuricsko/python-wordsearch-generator): Python, backtracking and grid validation
+- [Java OOP shapes](https://github.com/davidgyuricsko/java-oop-shapes): inheritance, polymorphism and animation in Java
 
-* Vue 3
-* Vite
-* Axios
-* Vue Router
+## Client work
 
-**Backend**
+I also design and build websites for small businesses through my studio, **[DG Forge Studio](https://dgforgestudio.co.uk)**:
 
-* Laravel (REST APIs)
-* Authentication (Sanctum)
+- **[Kitty Revolution Nails](https://kittyrevolutionnails.co.uk):** a salon website with services and prices, a gallery, Treatwell booking, WhatsApp, and an enquiry form running on a serverless function, hosted on Cloudflare
+- **[Laroc Jewel](https://www.larocjewel.com):** a gift-ready jewellery webshop, designed with the founder over four versions
+- **[dgforgestudio.co.uk](https://dgforgestudio.co.uk):** the studio's own site, built with Astro and deployed on Cloudflare Pages
 
-**Database**
+## Tech stack
 
-* MySQL
+| Area | Tools |
+| --- | --- |
+| Languages | TypeScript, JavaScript, Python, Java, PHP |
+| Frontend | React, Svelte, Vue 3, Astro, Vite, HTML and CSS, accessibility (WCAG) |
+| Backend | Laravel (REST APIs, Sanctum), Node (Hono), serverless functions |
+| Testing | Vitest, Testing Library, Playwright, axe-core |
+| Data | MySQL |
+| Tools | Git and GitHub, GitHub Actions, Docker, Cloudflare, VS Code |
 
-**Tools**
+## What I'm looking for
 
-* Git & GitHub
-* Docker
-* VS Code
+Junior or graduate software developer roles, frontend, full-stack or backend, in a team where I can ship real things and keep learning fast.
 
----
+## Contact
 
-## 📂 Projects
-
-### 🔹 EventDesk – Full-Stack Event & Support System
-
-* Built with **Vue 3 + Laravel + MySQL**
-* Secure authentication (login, logout, password reset)
-* Event management system (CRUD operations)
-* Helpdesk module with user-agent interaction
-* User-specific data access (authorization logic)
-
-👉 Demonstrates full-stack architecture, API integration, and real-world problem solving
-
----
-
-### 🔹 Word Search Puzzle Generator (Python)
-
-* Backtracking algorithm implementation
-* Dynamic grid generation
-* Focus on algorithmic problem solving
-
----
-
-### 🔹 Object-Oriented Graphics & Animation (Java)
-
-* Object-oriented design principles
-* Dynamic shape rendering and animation
-* Clean class structure and modular design
-
----
-
-## 🎯 What I'm Looking For
-
-* Junior / Graduate Software Engineer roles
-* Backend or Full-Stack opportunities
-* Teams where I can learn, contribute, and grow quickly
-
----
-
-## 📫 Contact
-
-📧 [davidgyuricsko@aol.co.uk](mailto:davidgyuricsko@aol.co.uk)
-
----
-
-## ⚡ Background
-
-Previously worked in luxury chauffeur services — now applying the same precision, discipline, and reliability to software engineering.
+- Email: [davidgyuricsko@gmail.com](mailto:davidgyuricsko@gmail.com)
+- Website: [dgforgestudio.co.uk](https://dgforgestudio.co.uk)
+- LinkedIn: [david-gyuricsko](https://www.linkedin.com/in/david-gyuricsko-922b95145)
