@@ -3,7 +3,7 @@
 **Junior software developer in London**, focused on full-stack web development with TypeScript, React, Svelte, Vue and Laravel.
 DipHE Computing & IT (The Open University, 2025), now studying for my BSc (Hons). Open to relocation across Europe.
 
-I came into software from more than ten years in customer-facing roles: hospitality management, marketing, and now chauffeuring in London. That background shapes how I build: clear, reliable, and designed around the person using it.
+I came into software from more than 15 years in customer-facing roles: hospitality management, marketing, and now chauffeuring in London. That background shapes how I build: clear, reliable, and designed around the person using it.
 
 ## Featured projects
 
